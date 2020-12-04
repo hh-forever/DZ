@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\PetsLibrary\PetsLibrary\bin\Release\PetsLibrary.dll
+C:\Users\user\source\repos\PetsLibrary\PetsLibrary\bin\Release\PetsLibrary.pdb
+C:\Users\user\source\repos\PetsLibrary\PetsLibrary\obj\Release\PetsLibrary.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PetsLibrary\PetsLibrary\obj\Release\PetsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PetsLibrary\PetsLibrary\obj\Release\PetsLibrary.dll
+C:\Users\user\source\repos\PetsLibrary\PetsLibrary\obj\Release\PetsLibrary.pdb
